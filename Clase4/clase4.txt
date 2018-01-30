@@ -1,0 +1,37 @@
+desarrolo web
+br no se cierra > img tampoco se cierra
+br es para hacer salto de linea
+p es para parrafo , esa si se cierra
+
+section es para una seccion nueva
+
+etiqueta span es para resaltar texto o darles un estilo y no da ningun salto de linea
+
+* es todos los elementos
+
+
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+es para moviles
+
+float es para poner donde va el contenido si a la izq derecha o none es en 
+	/*los colores se pueden poner en 
+	rgb (red, green, blue) (del 0 al 255)
+	rgba lo mismo pero con un canal alfa (0,0,0,0.6)
+	hsl (hue saturation light) (% del 0 al 360, saturacion del 0 al 100 y la luz del 0-100)
+	hsla (40%, 50, 50, .5);
+	y hex hexadecimal #ff0000 codigo de color de  6 digitos*/
+	
+identifcadores
+ID- id="" class="" onclick"" 
+
+en cmd
+cd y la carpeta para regresar
+
+git init iniciar github
+git status
+git add *
+git config --global user.email "norther.striker@hotmail.com"
+git config --global user.name "spiralserpent"
+
+git config --list
+checas donde estas logeado
